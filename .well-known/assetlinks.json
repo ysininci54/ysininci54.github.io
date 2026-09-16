@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.ysininci54.twa",
+    "sha256_cert_fingerprints": [
+      "6D:86:EB:89:DA:CA:B8:4D:E7:2D:7F:A4:B8:93:B8:5E:28:FD:73:4C:CF:FB:98:15:CB:7A:6A:2C:93:1F:A8:F6"
+    ]
+  }
+}]
